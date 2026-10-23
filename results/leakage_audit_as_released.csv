@@ -1,0 +1,4 @@
+vuln,n_total,n_train,n_valid,unique_contract_names,unique_content_signatures,pct_unique_signatures,valid_exact_dup_same_name,valid_exact_dup_diff_name,valid_no_dup,pct_valid_leaked,signature_groups_with_conflicting_labels
+reentrancy,1671,1338,333,185,185,11.071214841412328,330,0,3,99.09909909909909,0
+timestamp,1671,1337,334,185,185,11.071214841412328,331,0,3,99.10179640718563,0
+loop,1317,1054,263,1317,208,15.793470007593015,0,263,0,100.0,70

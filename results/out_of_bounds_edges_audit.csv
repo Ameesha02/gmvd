@@ -1,0 +1,4 @@
+vulnerability,total_edges,out_of_bounds_edges,pct_oob,graphs_affected,n_graphs,pct_graphs_affected
+reentrancy,4914,2535,51.58730158730159,1425,1671,85.278276481149
+timestamp,3342,930,27.82764811490126,930,1671,55.65529622980252
+loop,4204,0,0.0,0,1317,0.0

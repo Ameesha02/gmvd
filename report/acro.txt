@@ -1,0 +1,29 @@
+\vspace{\baselineskip}
+
+\begin{table}[hbtp]
+\renewcommand{\arraystretch}{1.5}
+\begin{tabular}{p{0.2\textwidth} p{0.8\textwidth}}
+AI        & Artificial Intelligence \\
+AME       & Attention-based Model with Expert patterns (baseline model) \\
+AUC       & Area Under the (ROC) Curve \\
+BCE       & Binary Cross-Entropy \\
+FN        & False Negative \\
+FP        & False Positive \\
+GAT       & Graph Attention Network \\
+GCN       & Graph Convolutional Network \\
+GMVD      & Graph Attention and Mamba-based Vulnerability Detection (proposed framework) \\
+GNN       & Graph Neural Network \\
+GRU       & Gated Recurrent Unit \\
+LSTM      & Long Short-Term Memory \\
+ML        & Machine Learning \\
+MLP       & Multi-Layer Perceptron \\
+NITK      & National Institute of Technology Karnataka \\
+RNN       & Recurrent Neural Network \\
+ROC       & Receiver Operating Characteristic \\
+S6        & Selective State-Space Sequence model (core mechanism of Mamba) \\
+SSM       & State-Space Model \\
+TMP       & Temporal Message Propagation network (baseline model) \\
+TN        & True Negative \\
+TP        & True Positive \\
+\end{tabular}
+\end{table}

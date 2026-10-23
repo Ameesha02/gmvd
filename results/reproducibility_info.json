@@ -1,0 +1,32 @@
+{
+  "python_version": "3.13.7 (tags/v3.13.7:bcee1c3, Aug 14 2025, 14:15:11) [MSC v.1944 64 bit (AMD64)]",
+  "platform": "Windows-11-10.0.26200-SP0",
+  "torch_version": "2.10.0+cpu",
+  "cuda_available": false,
+  "global_seed": 42,
+  "config": {
+    "d_model": 64,
+    "gat_heads": 4,
+    "gat_hidden": 32,
+    "ssm_state": 16,
+    "mlp_hidden": 100,
+    "dropout": 0.2,
+    "lr": 0.002,
+    "weight_decay": 1e-05,
+    "batch_size": 32,
+    "epochs": 120,
+    "early_stop_patience": 15,
+    "test_size": 0.2,
+    "seed": 42
+  },
+  "dataset_file_hashes": {
+    "reentrancy_train.json": "e921758a439c1b05",
+    "timestamp_train.json": "65b63683509c3811",
+    "loop_graph_labels.txt": "c5d1d2117efd3eaf"
+  },
+  "dataset_sizes": {
+    "reentrancy": 1671,
+    "timestamp": 1671,
+    "loop": 1317
+  }
+}
